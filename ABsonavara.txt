@@ -17,3 +17,4 @@ turvalisus-безопастность
 kättesaadavus-доступность
 andmete õigsus-правильность данных
 sisestusvorm-форма ввода
+andmed - данные
