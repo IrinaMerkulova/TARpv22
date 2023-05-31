@@ -1,0 +1,19 @@
+SELECT * FROM table_name
+-----------------------
+SELECT - выбрать
+* - всё
+FROM - из / откуда
+table_name - имя таблицы
+
+CREATE TABLE table_name(column1 dataType, ...) создаем таблицы
+INSERT INTO table_name(column_name, ...) заполняем значениями
+VALUES (column_value1, ...)заполняем значениями
+DROP TABLE table_name удаляем таблицу
+UPDATE table_name SET column_value1 обновляем таблицу
+WHERE condition с условием
+ALTER TABLE table_name ADD column_name datatype добавляем столбец
+DELETE FROM table_name WHERE [condition] удаляем
+ [condition] - column_name = value
+USE databasename; используем базу данных
+ALTER TABLE table_name ADD FOREIGN KEY (column_name) добавляем второстепеный ключ
+References table_name2(column_name2)

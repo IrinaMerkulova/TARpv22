@@ -1,8 +1,28 @@
-SQL
-DDL
-DML
-Database
-Database management system
-Related table
-Relational database
-Relationship
+Deniss Gorjunov
+SQL - Structured Query Language - структуированный язык запросов
+DDL - Data Definition Language - CREATE TABLE, ALTER TABLE, DROP TABLE.
+DML  - Data Manipulation - INSERT, UPDATE, DELETE, SELECT
+Database - база данных
+Database management system - система управления бд СУБД / Access, MS SQL SERVER, XAMPP/localhost, Oracle
+Related table - связаная таблица
+Relational database - реляционная БД
+Relationship - отношение
+Record
+Primary Key
+Foreign Key
+One-to-many relationship
+One-to-one relationship
+Query
+Report - отчёт
+Form - формы
+Data type / varchar() char() int decimal(5,2)
+------------
+Constrains - ограничения
+
+NOT NULL
+UNIQUE
+Primary key
+Foreign Key
+CHECK
+
+--------

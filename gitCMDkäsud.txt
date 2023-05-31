@@ -1,0 +1,15 @@
+-- перейти на рабочий стол
+cd desktop
+-- установить имя пользователя
+git config --global user.name "Deniss Gorjunov"
+-- установить е-майл
+git config --global user.email "pinkod2222@gmail.com"
+-- проверка 
+git config --global --list
+-- статус 
+git status
+-- 1) сменить ветку
+git branch Deniss
+2) git Deniss
+-- запушить 
+1) git add . 2)git commit -a -m "tõlkitud õige sõnad" 3)git push
