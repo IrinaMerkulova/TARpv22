@@ -33,3 +33,14 @@ pärimine - опрос
 kasutaja - пользователь
 kasutajate õigused - права пользователя
 haldamine -администрирование
+--------------------------------------------------------------------------
+päästik
+käivita
+salvesta
+moodusta
+laadi alla/laadi üles
+käivitatud päring
+salvestatud protseduur
+mootuste jälitus
+tõrketeade
+värsendus
