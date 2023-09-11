@@ -33,4 +33,14 @@ pärimine-запрашивание
 kasutaja-пользаватель
 kasutajate õigused-права пользавателей
 haldamine-администрирование
-
+pästik - тригер
+käivita - запустить
+salvesta - сохранить
+sisesta - записать
+moodusta - создать/образовать
+laadi alla/ laadi üles - скачай/ загрузи
+käivitatud päring - запущенный запрос
+salvestatud protseduur - сохранённая протседура
+muutuste jälitus - отслеживание изменений
+tõrketeade - сообщения об ошибке/припятствии
+värskendus - обновление
