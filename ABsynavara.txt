@@ -17,3 +17,15 @@ turvalisus - безопасность
 kättesaadavus - доступность
 andmete õigsus - правильность данных
 sisestusvorm - форма ввода
+--------------------------
+pästik - triger
+käivita - запустть
+salvesta - сохранить
+sisesta - введи
+moodusta - создай/образуй
+laadi alla/üles - скачай/загрузи
+käivitatud päring - запущенный запрос
+salvesta protseduur - сохрани процедуру
+muutuste jälitus - отслеживание изменений
+tõrketeade - оповещение об ошибке
+värsendus - обновление
