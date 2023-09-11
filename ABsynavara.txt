@@ -31,3 +31,12 @@ pärimine-запрашивание
 kasutaja-ползователей
 kasutajate õigused -права пользователя
 haldamine-администрирование
+päästik-trigger
+käivita- запустить
+moodusta - образуй
+laadi alla - загрузи
+käivitatud päring -запущенный запрос
+salvestatud protsedur -сохраненная процедура
+muutuse lälitus - отслеживание изменений
+tõrketeade - сообщение об ошибке
+värskendus - obnovlenie
