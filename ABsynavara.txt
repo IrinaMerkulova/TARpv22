@@ -33,3 +33,14 @@ Pärimine - Запрашивание, опрос
 Kasutaja - Пользователь
 Kasutajate õigused - Права пользователей
 Haldamine - Администрирование
+Pästik - Триггер
+Käivita - Запустить
+Salvesta - Сохранить
+Sisesta - Ввести
+Moodusa - Обрзуй/Создай
+laadi alla/laadi üles - Скачай/Загрузи
+Kävitatud päring - Запущенный запрос
+Salvestatud protseduur - Сохранённая процедура
+Muutuste jälitus - Отслеживание изменений
+Tõrketeade - Сообщение об ошибке/припятствии
+Värskendus - Обновлять
