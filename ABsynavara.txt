@@ -33,3 +33,15 @@ pärimine - запрашивание, опрос
 kasutaja - пользователь 
 kasutaja õigused - права пользователей 
 haldamine - администрирование
+----------------------------------------------------------------------
+päästik - триггер
+käivita - запустить
+salvesta - запустить 
+sisesta - вводить
+moodusta - образовать 
+laadi alla/laadi üles - скачай/загрузи
+käivitatud päring - запущенные запросы
+salvestatud protseduur - сохраненная процедура
+muutuste jälitus - отслеживание изменений
+tõrketeade - сообщение об ошибке/препятствии
+värsendus - обновление
