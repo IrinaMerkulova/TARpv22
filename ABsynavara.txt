@@ -1,35 +1,46 @@
-﻿andmebaas - database
-andmebaasihaldur - admin BD
-andmebaasi haldamise tarkvara - sistema upravleniya BD
-kirje - zapisyvat
-väli - pole
-tabel - tablica
-päring - zapros
-veerg - stolbec
-rida - ryad
-seosed - svyazi
-piirangud - ogrnicheniya / primary key, foreign key, unique, not null
-primaarvõti - primary key
-andmemudel - modul dannyh
-varukoopia - rezrvnaya kopiya
-kasutusjuhend - rukovodstvo polzovatelya
-turvalisus - bezopasnost
-kättesaadavus - dostupnost
-andmete õigsus - prvilnost failov
-sisestusvorm - forma vvoda
---------------------------
-näide - primer
-näidis - obrazec
-sõltuvus - zavisimost tablic
-seadistus -  nastroika
-paigaldus - ustanovka
-hooldus - obsluzhevanie
-lisamine - dobavlenie
-kustutamine -  udalenie
-uuendamine - obnovlenie
-pärimine - zaprashivanie
-kasutaja - polxovateli
-kasutajate õigused - prava polzovatelei
-haldamine - administrirovanie
+Andmebaas - database (БД)
+Andmebaasihaldur - Админ БД
+Andmebaasi haldamise tarkvara - Система управления БД
+Kirje - Запись
+Väli - Поле
+Tabel - Таблица
+Päring - Запрос
+Veerg - Столбец
+Rida - Ряд
+Seosed - Связи / Seos - Связь
+Piirangud - Ограничения / PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
+Primaarvõti - Основной ключ
+Andmemudel - Модель данных
+Varukoopia - Резервная копия
+Kasutusjuhend - Руководство пользователя
+Turvalisus - Безопасность
+Kättesaadavus - Доступность
+Andmete õigsus - Правильность данных
+Sisestusvorm - Форма ввода
 
-
+--------------------------------------------
+Näide - Пример
+Näidis - Образец
+Sõltuvus - Зависимости таблиц
+Seadistus - Настройка
+Paigaldus - Установка
+Hooldus - Обслуживание 
+Lisamine - Добавление
+Kustutamine - Удаление
+Uuendamine - Обновление
+Sorteerimine - Сортировка
+Pärimine - Запрашивание, опрос
+Kasutaja - Пользователь
+Kasutajate õigused - Права пользователей
+Haldamine - Администрирование
+Pästik - Триггер
+Käivita - Запустить
+Salvesta - Сохранить
+Sisesta - Ввести
+Moodusa - Обрзуй/Создай
+laadi alla/laadi üles - Скачай/Загрузи
+Kävitatud päring - Запущенный запрос
+Salvestatud protseduur - Сохранённая процедура
+Muutuste jälitus - Отслеживание изменений
+Tõrketeade - Сообщение об ошибке/припятствии
+Värskendus - Обновлять
