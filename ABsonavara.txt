@@ -17,3 +17,14 @@ turvalisus-безопастность
 kättesaadavus-доступность
 andmete õigsus-правильность данных
 sisestusvorm-форма ввода
+andmete õigus - 
+salvesta - сохранить
+käivita - 
+sisesta - ввод
+moodusta - 
+laadi alla/laadi üles - 
+pästik - trigger
+moodusta - 
+käivitatud päring - 
+salvestatud - 
+muutus jallitus - отслеживание изменений
