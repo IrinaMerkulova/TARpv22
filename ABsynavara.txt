@@ -31,4 +31,15 @@ pärimine - запрашивание or опрос
 kasutaja - пользователи
 kasutahate õigused - права ползовтеля
 haldamine - управление
-
+pästik - triger
+käivitama-запустить
+slavestama
+siseta - vvedi 
+moodusta - sozdai
+laadi alla - ckachai
+laadi üles -zagruzi
+käivitatud päring - zapushenii zapros
+salvestatus - sohranenii
+muutuste jäiltus - otslezhivanije izmenenii
+tõrketeade - soobshenije on oshibke
+värsjendus - obnoxlenie
