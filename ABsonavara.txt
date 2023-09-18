@@ -17,6 +17,7 @@ turvalisus-безопастность
 kättesaadavus-доступность
 andmete õigsus-правильность данных
 sisestusvorm-форма ввода
+-----------------------------
 pästik - triger
 käivita - запустить
 sisesta - введи
