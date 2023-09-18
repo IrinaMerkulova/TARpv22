@@ -35,3 +35,14 @@ Pärimine - запрашивание
 Kasutaja - Пользователь
 Kasutajate õigused - Права пользователей
 Haldamine - Администрирование
+-------------------------------------------------------------------
+pästik - triger
+käivita - запустить
+sisesta - введи
+moodusta - образуй / создай
+laadi alla/ laadi üles - скачай/загрузи
+käivitatud päring - запущенный запрос
+salvestatud protseduur
+muutuste jälitus - отслеживание изменений
+tõrketeade - сообщение об ошибке 
+värsendus - обновление
