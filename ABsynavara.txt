@@ -15,14 +15,14 @@ Varukoopia - Резервная копия
 Kasutusjuhend - Руководство пользователя
 Turvalisus - Безопасность
 Kättesaadavus - Доступность
-Andmete õigsus - Правильность данных
+Andmete õigusus - Правильность данных
 Sisestusvorm - Форма ввода
 
 --------------------------------------------
 Näide - Пример
 Näidis - Образец
 Sõltuvus - Зависимости таблиц
-Seadistus - Настройка
+Seadustus - Настройка
 Paigaldus - Установка
 Hooldus - Обслуживание 
 Lisamine - Добавление
