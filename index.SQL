@@ -25,35 +25,35 @@ execute sp_helpindex tblEmployee
 --2)
 CREATE TABLE tblEmployee
 (
-id int PRIMARY KEY,
-FirstName NVARCHAR(50),
-LastName NVARCHAR(50),
-Salary INT,
-Gender NVARCHAR(10),
-City NVARCHAR(50)
+id int primary key,
+FirstName nvarchar(50),
+LastName nvarchar(50),
+Salary int,
+Gender nvarchar(10),
+City nvarchar(50)
 )
 
-EXECUTE sp_helpindex tblEmployee
+execute sp_helpindex tblEmployee
 
-INSERT INTO tblEmployee VALUES(1,'Mike','Sandoz',4500,'Male','New York')
-INSERT INTO tblEmployee VALUES(1,'John','Menco',2500,'Male','London')
-SELECT * FROM tblEmployee
+insert into tblEmployee VALUES(1,'Mike','Sandoz',4500,'Male','New York')
+insert into tblEmployee VALUES(1,'John','Menco',2500,'Male','London')
+select * from tblEmployee
 
-DROP INDEX tblEmployee.PK__tblEmplo__3213E83FFAA32E21
+drop index tblEmployee.PK__tblEmplo__3213E83FFAA32E21
 
-CREATE UNIQUE NONCLUSTERED INDEX UIX_tblEmployee_FirstName_LastName
-ON tblEmployee(FirstName, LastName)
-EXECUTE sp_helpindex tblEmployee
+create unique nonclustered index UIX_tblEmployee_FirstName_LastName
+on tblEmployee(FirstName, LastName)
+execute sp_helpindex tblEmployee
 
-ALTER TABLE tblEmployee
-ADD CONSTRAINT UQ_tblEmployee_City
-UNIQUE NONCLUSTERED (City)
+alter table tblEmployee
+add constraint UQ_tblEmployee_City
+unique nonclustered (City)
 
-EXECUTE SP_HELPCONSTRAINT tblEmployee
+execute sp_helpconstraint  tblEmployee
 
-CREATE UNIQUE INDEX IX_tblEmployee_City
-ON tblEmployee(City)
-WITH IGNORE_DUP_KEY
+create unique index IX_tblEmployee_City
+on tblEmployee(City)
+with ignore_dup_key
 --3
 create table tblEmployee(
 id int primary key,
