@@ -1,4 +1,4 @@
---1)
+--1)View SQL serveris
 create table tblEmployee(
 id int primary key,
 name nvarchar(30),
@@ -43,7 +43,7 @@ from tblEmployee
 join tblDepartment
 on tblEmployee.DepartmendId = tblDepartment.DeptId
 group by DeptName
---2)
+--2)View uuendused
 create table tblEmployee(
 id int primary key,
 Name nvarchar(30),
@@ -92,7 +92,7 @@ select * from vwEmployeeDetailsByDepartment
 
 update vwEmployeeDetailsByDepartment
 set DeptName='IT' where Name = 'John'
---3)
+--3)Indekseeritud view-d
 create table tblProduct(
 ProductId int primary key,
 Name nvarchar(20),
@@ -131,7 +131,7 @@ group by Name
 
 create unique clustered index UXI_vWTotalSalesByProduct_Name
 on vWTotalSalesByProduct(Name)
---4)
+--4)View uuendused
 create table tblEmployee(
 Id int primary key,
 Name nvarchar(30),
