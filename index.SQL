@@ -1,4 +1,4 @@
---1)
+--1)Klastreeritud ja mitte-klastreeritud indeksid
 create table tblEmployee(
 id int primary key,
 FirstName nvarchar(50),
@@ -22,7 +22,7 @@ alter table tblEmployee
 add constraint UQ_tblEmployee_City 
 unique nonclustered (City)
 execute sp_helpindex tblEmployee
---2)
+--2)Unikaalne ja mitte-unikaalne indeks
 CREATE TABLE tblEmployee
 (
 id int primary key,
@@ -54,7 +54,7 @@ execute sp_helpconstraint  tblEmployee
 create unique index IX_tblEmployee_City
 on tblEmployee(City)
 with ignore_dup_key
---3
+--3)Indeksi plussid ja miinused
 create table tblEmployee(
 id int primary key,
 FirstName nvarchar(50),
