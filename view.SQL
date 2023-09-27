@@ -43,6 +43,9 @@ from tblEmployee
 join tblDepartment
 on tblEmployee.DepartmendId = tblDepartment.DeptId
 group by DeptName
+
+------------------
+
 --2)View uuendused
 create table tblEmployee(
 id int primary key,
@@ -92,6 +95,9 @@ select * from vwEmployeeDetailsByDepartment
 
 update vwEmployeeDetailsByDepartment
 set DeptName='IT' where Name = 'John'
+
+------------------
+
 --3)Indekseeritud view-d
 create table tblProduct(
 ProductId int primary key,
@@ -131,6 +137,9 @@ group by Name
 
 create unique clustered index UXI_vWTotalSalesByProduct_Name
 on vWTotalSalesByProduct(Name)
+
+------------------
+
 --4)View uuendused
 create table tblEmployee(
 Id int primary key,
