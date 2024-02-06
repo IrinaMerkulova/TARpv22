@@ -10,3 +10,4 @@ git add . /// сохранить все
 git commit -a -m "tõlketud sõnad" /// добавить комментарий 
 git push /// отправить
 git push --set-upstream origin EgorF /// отправить в ветку 
+git init Fedorenko /// создание пустого репозитория
